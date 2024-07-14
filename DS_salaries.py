@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
- 
 st.write("""# This is an application about Data Science Salaries 2023 💸 """)
 
  
