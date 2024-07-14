@@ -3,3 +3,6 @@ panda
 matplotlib.pyplot
 seaborn
 plotly.express
+streamlit
+speechrecognition
+
